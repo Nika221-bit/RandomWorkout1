@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "RandomWorkout1/1.0.0": {
+        "runtime": {
+          "RandomWorkout1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RandomWorkout1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
