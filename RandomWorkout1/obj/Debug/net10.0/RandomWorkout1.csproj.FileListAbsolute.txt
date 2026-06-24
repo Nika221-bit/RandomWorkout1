@@ -12,3 +12,4 @@ C:\Users\User\OneDrive\Desktop\RandomWorkout1\RandomWorkout1\obj\Debug\net10.0\r
 C:\Users\User\OneDrive\Desktop\RandomWorkout1\RandomWorkout1\obj\Debug\net10.0\RandomWorkout1.pdb
 C:\Users\User\OneDrive\Desktop\RandomWorkout1\RandomWorkout1\obj\Debug\net10.0\RandomWorkout1.genruntimeconfig.cache
 C:\Users\User\OneDrive\Desktop\RandomWorkout1\RandomWorkout1\obj\Debug\net10.0\ref\RandomWorkout1.dll
+C:\Users\User\OneDrive\Desktop\RandomWorkout1\RandomWorkout1\obj\Debug\net10.0\RandomWorkout1.sourcelink.json

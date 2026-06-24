@@ -31,7 +31,6 @@ public class Product
         Console.WriteLine("sheiyvanet raodenoba");
         int quantity = int.Parse(Console.ReadLine());
         
-        string author = Console.ReadLine();
         
         
         Product  newProduct = new Product(name, price, quantity);

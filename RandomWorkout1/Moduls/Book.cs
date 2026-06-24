@@ -11,6 +11,11 @@ public class Book :Product
         Author = author;
     }
 
+    public decimal Discount()
+    {
+        return Price * Quantity - 10;
+    }
+    
     
 }
 
