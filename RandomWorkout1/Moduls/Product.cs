@@ -18,8 +18,8 @@ public class Product
     public void Print()
     {
         Console.WriteLine($"saxeli : {Name}");
-        Console.WriteLine($"fasi : ${Price}");
-        Console.WriteLine($"raodenoba : {Quantity}kg");
+        Console.WriteLine($"fasi : {Price}");
+        Console.WriteLine($"raodenoba : {Quantity}");
     }
     
     public static Product GetTotalValue()
